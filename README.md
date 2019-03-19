@@ -1,4 +1,6 @@
 # MAPS.ME
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzouguangxian%2Fomim.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzouguangxian%2Fomim?ref=badge_shield)
+
 
 [MAPS.ME](http://maps.me) is an open source cross-platform offline maps application,
 built on top of crowd-sourced OpenStreetMap data. It was publicly released
@@ -73,3 +75,6 @@ or by mail to bugs@maps.me.
 This source code is Copyright (C) 2015 My.com B.V. (Mail.Ru Group), published under Apache Public License 2.0,
 except third-party libraries. See [NOTICE](https://github.com/mapsme/omim/blob/master/NOTICE)
 and [data/copyright.html](http://htmlpreview.github.io/?https://github.com/mapsme/omim/blob/master/data/copyright.html) files for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzouguangxian%2Fomim.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzouguangxian%2Fomim?ref=badge_large)
